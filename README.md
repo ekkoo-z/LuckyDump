@@ -1,5 +1,5 @@
 # LuckyDump
-
+自行编译  
 工具详细说明：https://mp.weixin.qq.com/s/AuOfu3RwPtqF9toYsYUVRA  
 截止 2025.3.19 过 360 核晶 火绒 defender macfee ESET  
 静态免杀性：去除掉延迟函数可以达到vt0杀，但是动态行为会被一些edr拦截，静态这几个也无关痛痒（猎鹰静态过了动态也dump不了） 
