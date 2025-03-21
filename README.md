@@ -1,4 +1,5 @@
 # LuckyDump
+ 特殊原因，项目已删，师傅们可以自行参考公众号思路修改原项目：https://github.com/seventeenman/CallBackDump/
 自行编译  
 工具详细说明：https://mp.weixin.qq.com/s/AuOfu3RwPtqF9toYsYUVRA  
 截止 2025.3.19 已测 360 核晶 火绒 macfee ESET  
